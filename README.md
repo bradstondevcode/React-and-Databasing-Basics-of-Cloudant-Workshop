@@ -1,4 +1,4 @@
-#React and Databasing: Basics of IBM Cloudant
+# React and Databasing: Basics of IBM Cloudant Workshop
 
 In this Worshop you will learn the basics of IBM Cloudant and how to create a React application that is powered by Cloudant NoSQL DB.
 
