@@ -45,7 +45,9 @@ Youtube: [Bradston YT](https://www.youtube.com/channel/UC6Ky8s71RP65akLb_XV1_OA)
 
 Use the password **"workshop2021"** to login. Username can be anything (preferably not your name). 
 
-[Amber](https://sleeping-zebu-games.itch.io/amber)
+[![Amber](https://img.itch.zone/aW1hZ2UvMTgzMTA1Lzg1NjI0Mi5wbmc=/original/uvzIJy.png "Amber")](http://https://sleeping-zebu-games.itch.io/amber "Amber")
+
+[Amber Itch.io Link](https://sleeping-zebu-games.itch.io/amber)
 
 This game was created by myself and [Kyle Smith](https://www.linkedin.com/in/kyle-smith-67393b80/)
 
