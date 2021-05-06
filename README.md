@@ -4,12 +4,15 @@ In this Worshop you will learn the basics of IBM Cloudant and how to create a Re
 
 At the end of the workshop, participants will have learned the "Needs-to-Know" about Cloudant NoSQL DB and will have deployed a ReactJs application to the cloud driven by data housed in IBM Cloudant. 
 
+
+
 ## 🔥 Important Workshop First Steps 🔥
 
 - ✅ Sign-up for FREE IBM Cloud Account:  [IBM Cloud Signup](https://ibm.biz/BdfqCq)
 - ✅ Download/Clone ReactJS Workshop Starter Code: [Jellybean World React Github](https://github.com/bradstondevcode/jelly-bean-world-starter-code)
 - ✅ Download/Clone Node.js Workshop Starter Code: [Jellybean World Node Github](https://github.com/bradstondevcode/jelly-bean-world-node-api)
 
+## SPECIAL THANKS TO [Kyle Smith](https://www.linkedin.com/in/kyle-smith-67393b80/) for creating the Visual Design of Jellybean World!!
 
 ## 😁Please Take Survey After Class😁
 
