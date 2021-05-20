@@ -20,7 +20,7 @@ This helps me to know how I can improve and make future workshops EVEN better!
 
 Thanks in Advance!
 
-[Short Post-Workshop Survey](https://ibm.biz/BdfqCf)
+Surver no longer available! Will re-open for next session.
 
 ### Resources in Repo
 
